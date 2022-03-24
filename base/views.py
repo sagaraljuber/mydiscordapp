@@ -18,3 +18,5 @@ def home(request):
 
 def room(request, pk):
     return render(request, 'base/room.html')
+
+    asdsad
